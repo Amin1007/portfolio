@@ -12,7 +12,7 @@ project:
     - file: content/portfolio.md
     - file: content/rapport_final.md
     - file: content/mon_projet.ipynb
-    - file: content/NOUVEAU_FICHIER.md
+    - file: content/nouveau_fichier.md
     
 site:
   template: book-theme
